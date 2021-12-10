@@ -1,7 +1,5 @@
-Hello from Samuel Ko.
+Hello from [Samuel Ko](https://www.linkedin.com/in/samuelko123/).
 
 I am software developer who enjoys exploring new stuff.  
 I value code quality, and embrace agile development.  
-I love algorithms. They are so much fun.  
-
-[LinkedIn Profile](https://www.linkedin.com/in/samuelko123/)
+I love algorithms. They are so much fun.
