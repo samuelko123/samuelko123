@@ -1,5 +1,8 @@
 Hello from [Samuel Ko](https://www.linkedin.com/in/samuelko123/).
 
-I am software developer who enjoys exploring new stuff.  
-I value code quality, and embrace agile development.  
-I love algorithms. They are so much fun.
+I am software developer who enjoys being efficient solutions.
+
+Stuff that I love:
+- Test-Driven Development
+- Domain-Driven Design
+- Code Readability
